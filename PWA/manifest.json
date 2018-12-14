@@ -1,0 +1,18 @@
+{
+  "name":"Alejandro Rdz PWA",
+  "short_name":"PWA",
+  "description":"Aplicacion mobile progresiva para la materia DESAROLLO DE APP'S",
+  "background_color":"#FFF",
+  "theme_color":"#6699ff",
+  "orientation":"portrait",
+  "display":"standalone",
+  "start_url":"./index.html?ut_source=web_app_manifest",
+  "scope":"./",
+  "lang":"es-ES",
+  "icons":[{
+    "src":"./img/favicon",
+    "sizes":"1024x1014",
+    "type":"image/png"
+    }]
+
+}
